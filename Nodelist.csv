@@ -1,0 +1,30 @@
+id,name,party ,sector,country ,type
+500,Folge 500 ,",",",",",",2
+uvdl ,Ursula von der Leyen ,CDU,Politik,Deutschland ,1
+lk,Lars Klingbeil,SPD ,Politik ,Deutschland ,1
+nr ,Norbert Röttgen ,CDU,Politik,Deutschland ,1
+sw,Sahra Wagenknecht ,Linke ,Politik,Deutschland ,1
+cs,Constanze Stelzenmüller ,",",Wissenschaft ,USA ,1
+Sara,Sara the Wife,1,2,50,1
+501,Folge 501,",",",",",",2
+cl,Christian Lindner ,FDP,Politik,Deutschland ,1
+kl,Karl Schlögel,",",Wissenschaft ,Deutschland ,1
+lm,Ljudmyla Melnyk,",",Politik,Ukraine,1
+kd,Kristina Dunz,",",Journalismus ,Deutschland ,1
+el,Egils Levits,,Politik,Lettland,1
+502,Folge 502,",",",",",",2
+ab,Annalena Barebock,Grüne,Politik,Deutschland ,1
+ft,Frans Timmermans,",",Politik,Niederlande ,1
+am,Andrij Melnyk,",",Politik,Ukraine,1
+agl,Alexander Graf Lambsdorff,FDP,Politik,Deutschland ,1
+er,Egon Ramms ,",",Militär,Deutschland ,1
+503,Folge 503,",",",",",",2
+rh,Robert Habeck,Grüne,Politik,Deutschland ,1
+cm,Claudia Major ,",",Wissenschaft ,Deutschland ,1
+kp,Katja Petrowskaja,,Wirtschaft,Ukraine,1
+rk,Roderich Kiesewetter,CDU,Politik,Deutschland ,1
+CDU,CDZ,CDU,",",",",2
+Linke,Linke,Linke,",",",",2
+FDP,FDP,FDP,",",",",2
+SPD,SPD,SPD,",",",",2
+Grüne,Grüne,Grüne,",",",",2
